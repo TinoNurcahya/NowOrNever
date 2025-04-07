@@ -1,0 +1,63 @@
+
+internet dan teknologi web
+
+tools pendukung
+  1. Code Editor
+    a. VS Code
+  2. Web Browser
+    a. Chrome
+    b. Mozila
+    c. Firefox
+  3. Design Tools
+    a. Figma
+
+=====FRONTEND=====
+
+HTML dasar
+HTML lanjutan
+CSS Dasar
+CSS Layouting
+CSS 3
+CSS Units
+CSS Flexbox
+CSS Grid
+GIT
+CSS Framework
+
+Dasar pemrograman Javascript
+Javascript DOM (Document Object Model)
+CSS pre-processor
+Javascript Lanjutan
+
+API
+Package manager
+framework frontend 
+  a. react.js
+  b. vue.js
+  c. angular.js
+
+=====BACKEND=====
+pilih bahasa
+  1. PHP
+    a. PHP dasar
+    b. object oriented PHP
+    c. MVC
+    d. PHP framework
+      1). codeigniter
+      2). Laravel
+  2. Javascript
+    a. javascript lanjutan
+    b. nodeJS
+  3. python
+  4. java
+  5. Go
+  6. ruby
+
+Database
+  1. relational database
+  2. mysql database
+  
+API
+
+
+*catatan: berasal dari roadmap youtube web-WPU
