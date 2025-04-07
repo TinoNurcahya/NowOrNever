@@ -15,18 +15,42 @@ tools pendukung
 
 HTML dasar
 HTML lanjutan
+  1.Basic HTML
+  ‌2.Semantic Elements
+  ‌3.Form Validation
+  ‌4.SVG & Canvas
+  ‌5.Information Architecture
+  ‌6.Accessibility
+  ‌7.SEO
+
 CSS Dasar
+  ‌1.Basic CSS
+  ‌2.CSS Layouting
+  ‌3.Filter, Transition & Animation
+  ‌4.Responsive Design
+  ‌5.Modern CSS
+  ‌6.CSS Architecture
 CSS Layouting
 CSS 3
 CSS Units
 CSS Flexbox
 CSS Grid
 GIT
+  1. Github
 CSS Framework
+  1.Boostrap
+  2.Tailwind CSS
 
 Dasar pemrograman Javascript
+  ‌1.Basic Concepts
+  ‌2.DOM (Document Object Model)
+  ‌3.ES6 + Modular Javascript
+  ‌4.Asynchronous Javascript
+  ‌5.Fetch API
 Javascript DOM (Document Object Model)
 CSS pre-processor
+  1. sass
+  2. less
 Javascript Lanjutan
 
 API
@@ -59,5 +83,8 @@ Database
   
 API
 
-
+=====LAINNYA=====
+Website Deployment
+  1.GITHUB
+  2.Vercel
 *catatan: berasal dari roadmap youtube web-WPU
