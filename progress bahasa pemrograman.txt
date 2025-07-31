@@ -10,11 +10,15 @@ tools pendukung
     c. Firefox
   3. Design Tools
     a. Figma
+  4. Package Manager
+    a. NPM (node js)
+  4. Build Tools
+    a. Webpack
 
 =====FRONTEND=====
 
-HTML dasar
-HTML lanjutan
+==HTML dasar
+==HTML lanjutan
   1.Basic HTML
   ‌2.Semantic Elements
   ‌3.Form Validation
@@ -23,42 +27,45 @@ HTML lanjutan
   ‌6.Accessibility
   ‌7.SEO
 
-CSS Dasar
+==CSS Dasar
   ‌1.Basic CSS
   ‌2.CSS Layouting
   ‌3.Filter, Transition & Animation
   ‌4.Responsive Design
   ‌5.Modern CSS
   ‌6.CSS Architecture
-CSS Layouting
-CSS 3
-CSS Units
-CSS Flexbox
-CSS Grid
-GIT
+==CSS Layouting
+==CSS 3
+==CSS Units
+==CSS Flexbox
+==CSS Grid
+==GIT
   1. Github
-CSS Framework
+==CSS Framework
   1.Boostrap
   2.Tailwind CSS
 
-Dasar pemrograman Javascript
+==Dasar pemrograman Javascript
   ‌1.Basic Concepts
   ‌2.DOM (Document Object Model)
   ‌3.ES6 + Modular Javascript
   ‌4.Asynchronous Javascript
   ‌5.Fetch API
-Javascript DOM (Document Object Model)
-CSS pre-processor
+==Javascript DOM (Document Object Model)
+==CSS pre-processor
   1. sass
-  2. less
-Javascript Lanjutan
+==Javascript Lanjutan
 
-API
-Package manager
-framework frontend 
+==API
+==Package manager
+==framework frontend 
   a. react.js
   b. vue.js
-  c. angular.js
+
+LANJUTAN KALAU SUDAH SEMUA
+==Typescript (javascript yg lebih terstruktur)
+==NextJS
+
 
 =====BACKEND=====
 pilih bahasa
